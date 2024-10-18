@@ -1,0 +1,7 @@
+.vscode
+
+client/node_modules
+client/.next
+
+server/cmd/pass_gen/*.exe
+server/docker-compose.yml
